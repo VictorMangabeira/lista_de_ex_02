@@ -1,0 +1,15 @@
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\ex_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\ex_01.AssemblyInfoInputs.cache
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\ex_01.AssemblyInfo.cs
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\ex_01.csproj.CoreCompileInputs.cache
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\ex_01.sourcelink.json
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\bin\Debug\net8.0\ex_01.exe
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\bin\Debug\net8.0\ex_01.deps.json
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\bin\Debug\net8.0\ex_01.runtimeconfig.json
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\bin\Debug\net8.0\ex_01.dll
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\bin\Debug\net8.0\ex_01.pdb
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\ex_01.dll
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\refint\ex_01.dll
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\ex_01.pdb
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\ex_01.genruntimeconfig.cache
+C:\Users\victor.omangabeira\source\repos\lista_exercicos_02\ex_01\obj\Debug\net8.0\ref\ex_01.dll
